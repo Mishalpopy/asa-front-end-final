@@ -1,0 +1,48 @@
+    .asso-home {
+        background-color: #1A733B;
+    }
+    
+    .asso-home .container h1 {
+        background: url(./asso-well-bg.jpg);
+        background-attachment: fixed;
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        letter-spacing: 5px;
+        font-size: 108px;
+        font-weight: 800;
+        padding: 86px 90px;
+        font-family: 'Raleway', sans-serif;
+    }
+    
+    .asso-home .container .aso-content {
+        padding: 73px 80px;
+    }
+    
+    .asso-home .container .aso-content h2 {
+        color: white;
+        font-size: 31px;
+        font-weight: 600;
+        line-height: 41px;
+    }
+    
+    .asso-home .container .aso-content ul {
+        color: white;
+    }
+    
+    .asso-home .container .aso-content ul li {
+        font-size: 20px;
+        line-height: 32px;
+        font-weight: 500;
+    }
+    
+    .asso-home .container a {
+        background-color: white;
+        padding: 10px 33px;
+        border-radius: 20px;
+        margin-top: 20px;
+        text-decoration: none;
+        font-weight: 600;
+        color: #1A733B;
+        font-size: 14px;
+        letter-spacing: 3px;
+    }
